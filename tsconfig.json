@@ -1,9 +1,8 @@
 {
     "compilerOptions": {
         "removeComments": true,
-        "outDir": "./js/",
-        "outFile": "./js/co-design.js",
-        "rootDir": "./js_src/",
+        "outFile": "./dist/co-design.js",
+        "rootDir": "./src/scripts",
         "target": "ES5",
         "alwaysStrict": true
     }
